@@ -1,3 +1,5 @@
+This code is associated with the paper from Mikedis et al., "DAZL mediates a broad translational program regulating expansion and differentiation of spermatogonial progenitors". eLife, 2020. http://doi.org/10.7554/eLife.56523
+
 # Analysis-of-tubule-cross-sections-via-CellProfiler
 These scripts were used to quantify spermatogonial and Sertoli cell populations in cross-sections of seminiferous tubules from wildtype and mutant samples. 
 
